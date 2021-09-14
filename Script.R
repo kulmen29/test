@@ -1,2 +1,2 @@
 # here is my script
-test = function(pring("yay!!!!!!!!!!"))
+test = function(print("yay!!!!!!!!!!"))
